@@ -1,6 +1,6 @@
 {
   "name": "cdk-sam-example",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "bin": {
     "cdk-sam-example": "bin/cdk-sam-example.js"
   },

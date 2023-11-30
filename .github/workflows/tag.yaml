@@ -1,4 +1,4 @@
-name: Git Tag Release
+name: Git Tag Release!!
 
 on:
   workflow_dispatch:
