@@ -9,8 +9,8 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
-       # with:
-          #token: ${{ secrets.MY_PAT }}
+        with:
+          token: ${{ secrets.PAT_KEY }}
 
       - name: Approve tag creation
         uses: trstringer/manual-approval@v1
